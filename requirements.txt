@@ -1,4 +1,6 @@
 bpython==0.12
+bucky==0.2.6
+carbon==0.9.12
 coverage==3.6
 Cython==0.19.1
 defusedxml==0.4.1
@@ -18,7 +20,10 @@ django-secure==1.0
 django-timedeltafield==0.7.0
 django-timezone-field==1.0
 fabric==1.7.0
+flower==0.5.2
+graphite-web==0.9.12
 gunicorn==18.0
+hiredis==0.1.1
 ipython==1.1.0
 logutils==0.3.3
 lxml==3.2.3
@@ -26,7 +31,9 @@ mock==1.0.1
 numpy==1.7.1
 odfpy==0.9.6
 pep8==1.4.6
+postfix-stats==0.3.1
 potpie==0.1.1
+psycopg2==2.5.1
 pyflakes==0.7.3
 python-dateutil==2.1
 pytz==2013d
@@ -34,8 +41,12 @@ raven==3.5.0
 redis==2.8.0
 requests==1.2.3
 scipy==0.12.0
+sentry==6.2.3
 sh==1.09
 South==0.8.2
 Sphinx==1.1.3
+supervisor==3.0
 ujson==1.33
+virtualenv==1.10.1
 wheel==0.21.0
+whisper==0.9.12
