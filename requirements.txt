@@ -4,6 +4,7 @@ carbon==0.9.12
 coverage==3.6
 Cython==0.19.1
 defusedxml==0.4.1
+diamond==3.4.30
 distribute==0.7.3
 Django==1.5.4
 django-bootstrap-toolkit==2.15.0
