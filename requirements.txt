@@ -17,6 +17,7 @@ django-extensions==1.2.0
 django-jenkins==0.14.1
 django-model-utils==1.4.0
 django-polymorphic==0.5.2
+django-redis==3.3
 django-secure==1.0
 django-timedeltafield==0.7.0
 django-timezone-field==1.0
