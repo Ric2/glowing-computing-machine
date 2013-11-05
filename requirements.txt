@@ -23,7 +23,7 @@ django-tagging==0.3.1
 django-timedeltafield==0.7.0
 django-timezone-field==1.0
 Django==1.5.5
-fabric==1.7.0
+fabric==1.8.0
 flower==0.5.2
 graphite-web==0.9.12
 gunicorn==18.0
