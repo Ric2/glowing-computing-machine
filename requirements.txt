@@ -1,4 +1,4 @@
-astroid==1.3.8
+astroid==1.4.5
 bitarray==0.8.1
 bucky==2.2.2
 celery==3.1.23
@@ -50,11 +50,11 @@ google-api-python-client==1.4.1
 gunicorn==19.2.0
 hiredis==0.1.5
 httpagentparser==1.7.6
-ipython==4.0.0
+ipython==4.1.2
 iso8601==0.1.10
 lockfile==0.10.2
 lxml==3.4.1
-mock==1.3.0
+mock==2.0.0
 msgpack-python==0.4.5
 numexpr==2.4.6
 numpy==1.10.1
@@ -62,7 +62,7 @@ oauth2client==1.5.2
 openpyxl==2.2.5
 pandas==0.16.2
 pdfrw==0.2
-pep8==1.5.7
+pep8==1.7.0
 Pillow==3.1.1
 pip==7.1.2
 polib==1.0.7
@@ -71,9 +71,10 @@ potpie==0.1.1
 premailer==2.8.1
 psutil==3.0.1
 psycopg2==2.6.1
-pyflakes==0.8.1
+pyflakes==1.1.0
 pyftpdlib==1.4.0
-pylint==1.4.4
+pykalman>=0.9.5
+pylint==1.5.5
 pyOpenSSL==0.14
 python-dateutil==2.4.2
 python-pptx==0.5.8
@@ -83,10 +84,11 @@ raven==5.10.2
 redis==2.10.5
 reportlab==3.2.0
 requests==2.6.0
-scikit-learn>=0.17
+scikit-learn>=0.17.1
 scipy==0.16.1
 selenium==2.53.1
-sentry[postgres]==6.4.4
+sentry-auth-google==0.1.0
+sentry[postgres]==8.3.2
 setproctitle==1.1.9
 setuptools>=1.0
 sh==1.09
